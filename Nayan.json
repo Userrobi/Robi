@@ -8,7 +8,7 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "Emon",
-  "PREFIX": "!",
+  "PREFIX": "emon",
   "OPERATOR": [
     "100069926588234"
   ],
