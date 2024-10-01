@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "ROBI-𝙱𝙾𝚃=/🩷🪽",
+  "BOTNAME": "Emon",
   "PREFIX": "!",
   "OPERATOR": [
     "100069926588234"
   ],
   "ADMINBOT": [
     "100092261024555",
-    ""
+    "61550226952525"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
